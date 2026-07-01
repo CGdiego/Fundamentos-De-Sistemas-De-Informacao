@@ -1,0 +1,5 @@
+# Excel temporary and lock files
+~$*.xls*
+*.xls.autosave
+*.xlsx.autosave
+*.xlsb.autosave
